@@ -6,6 +6,8 @@
 
 body {
     text-align: center;
+    background-image: url(16.svg);
+    background-size: cover;
 }
 
 button {
@@ -16,7 +18,7 @@ button {
 }
 
 button:hover {
-    background-color: grey;
+    background-color: pink;
 }
 
 h1, h2, h3 {
